@@ -1,0 +1,4 @@
+interface:
+  display_name: "需求文档评审专家"
+  short_description: "从8个角色视角结构化评审需求文档"
+  default_prompt: "Use $requirement-review-master to review this PRD and produce a structured multi-role review report."
